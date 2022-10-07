@@ -1,2 +1,2 @@
-# IAMHERO
+# freecodecamp RDBMS project
 Starting
