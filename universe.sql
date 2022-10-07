@@ -141,26 +141,26 @@ INSERT INTO public.galaxy VALUES (6, 'backward', 501280040, 640044220, 'rotate i
 -- Data for Name: moon; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.moon VALUES (1, 'vivu', 4, 4000, true);
-INSERT INTO public.moon VALUES (2, 'ajay', 7, 4900, false);
-INSERT INTO public.moon VALUES (3, 'mandeep', 12, 0, true);
-INSERT INTO public.moon VALUES (4, 'shraddha', 12, 0, true);
-INSERT INTO public.moon VALUES (5, 'father', 12, 0, true);
-INSERT INTO public.moon VALUES (6, 'mechain', 12, 0, true);
-INSERT INTO public.moon VALUES (7, 'nobi', 12, 0, true);
-INSERT INTO public.moon VALUES (8, 'doraemon', 12, 0, true);
-INSERT INTO public.moon VALUES (9, 'jaan', 12, 0, true);
-INSERT INTO public.moon VALUES (10, 'jaanu', 12, 0, true);
-INSERT INTO public.moon VALUES (11, 'ansh', 10, 2232, true);
-INSERT INTO public.moon VALUES (12, 'nikita', 10, 232, true);
-INSERT INTO public.moon VALUES (13, 'babli', 10, 432, true);
-INSERT INTO public.moon VALUES (14, 'rajveer', 9, 432, true);
-INSERT INTO public.moon VALUES (15, 'sandeep', 9, 42, true);
-INSERT INTO public.moon VALUES (16, 'vishu', 12, 0, true);
-INSERT INTO public.moon VALUES (17, 'sneh', 12, 0, true);
-INSERT INTO public.moon VALUES (18, 'rishu', 12, 0, true);
-INSERT INTO public.moon VALUES (20, 'sakshi', 12, 0, true);
-INSERT INTO public.moon VALUES (19, 'raghu', 3, 342, false);
+INSERT INTO public.moon VALUES (1, 'moon', 4, 4000, true);
+INSERT INTO public.moon VALUES (2, 'jupiter LXIII', 7, 4900, false);
+INSERT INTO public.moon VALUES (3, 'Callisto', 12, 0, true);
+INSERT INTO public.moon VALUES (4, 'Harpalyke', 12, 0, true);
+INSERT INTO public.moon VALUES (5, 'Megaclite', 12, 0, true);
+INSERT INTO public.moon VALUES (6, 'Herse', 12, 0, true);
+INSERT INTO public.moon VALUES (7, 'Cyllene', 12, 0, true);
+INSERT INTO public.moon VALUES (8, 'Ersa', 12, 0, true);
+INSERT INTO public.moon VALUES (9, 'Phobos', 12, 0, true);
+INSERT INTO public.moon VALUES (10, 'Deimos', 12, 0, true);
+INSERT INTO public.moon VALUES (11, 'Ganymede', 10, 2232, true);
+INSERT INTO public.moon VALUES (12, 'Lo', 10, 232, true);
+INSERT INTO public.moon VALUES (13, 'Europa', 10, 432, true);
+INSERT INTO public.moon VALUES (14, 'Amalthea', 9, 432, true);
+INSERT INTO public.moon VALUES (15, 'Himalia', 9, 42, true);
+INSERT INTO public.moon VALUES (16, 'Titan', 12, 0, true);
+INSERT INTO public.moon VALUES (17, 'Dione', 12, 0, true);
+INSERT INTO public.moon VALUES (18, 'Titania', 12, 0, true);
+INSERT INTO public.moon VALUES (20, 'Puck', 12, 0, true);
+INSERT INTO public.moon VALUES (19, 'Juleit', 3, 342, false);
 
 
 --
